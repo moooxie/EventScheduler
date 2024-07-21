@@ -1,0 +1,55 @@
+@mixin style1 {
+    color: #000;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+@mixin style2{
+    width: 362px;
+    height: 171px;
+    border-radius: 0px 0px 5px 5px;
+    background: #FFF;
+}
+
+@mixin textstyle1{
+    h2{
+        padding-left: 37px;
+        padding-top: 68px;
+        color: #8A8787;
+        font-family: Roboto;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    p{
+        color: #8A8787;
+        font-family: Roboto;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        display: inline-block;
+        vertical-align: middle;
+    }
+  
+}
+
+@mixin position1{
+    .div3{
+        padding-left: 40px;
+        padding-top: 11px;
+    }
+}
+
+
+
+
+
+
+
+

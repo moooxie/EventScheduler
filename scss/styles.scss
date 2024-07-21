@@ -1,0 +1,165 @@
+body{
+    width: 1440px;
+    height: 1793px;
+    flex-shrink: 0;
+    background: #F1F1F1;
+}
+
+
+header{
+    margin-left: 137px;
+    margin-top: 21px;
+
+}
+
+h5{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 35px;
+    font-size: 11px;
+    @include style1;
+
+}
+
+article{
+    margin-left: 138px;
+    margin-top: 42px;
+}
+
+
+.logo1{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1{
+    font-size: 24px;
+    @include style1
+}
+
+.div1{
+    margin-top: 27px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 40px;
+}
+
+.div2{
+    @include style2;
+    @include textstyle1;
+    @include position1;
+}
+
+section{
+    margin-left: 140px;
+    margin-top: 57px;
+}
+
+
+.div5{
+	width: 800px;
+	position: relative;
+	margin-top: 30px;
+	
+}
+
+.div6{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.div7{
+	display: inline-block;
+	vertical-align: top;
+	position: absolute;
+	padding-left: 0px;
+
+}
+
+
+.xidi{
+	margin-bottom: 42px;
+}
+ 
+.div8{
+	padding-bottom: 98px;
+}
+
+
+
+.div9{
+	width: 1440px;
+	height: 201px;
+	background: #243043;
+	position: relative;
+
+}
+
+.li2{
+	color: #818687;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.div10{
+	display: inline-block;
+	vertical-align: middle;
+	position: absolute;
+	padding-left: 137px;
+	padding-top: 59px;
+}
+
+.div11{
+	display: inline-block;
+	vertical-align: middle;
+	position: absolute;
+	padding-left: 266px;
+	padding-top: 59px;
+}
+
+.div12{
+	display: inline-block;
+	vertical-align: middle;
+	position: absolute;
+	padding-left: 417px;
+	padding-top: 59px;
+}
+
+.div13{
+	display: inline-block;
+	vertical-align: middle;
+	position: absolute;
+	padding-left: 599px;
+	padding-top: 59px;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.bu{
+	display: inline-block;
+	vertical-align: middle;
+	position: absolute;
+	padding-top: 58px;
+	padding-left: 1200px;
+}
+footer{
+	padding-top: 30px;
+}
+
+
+li{
+    padding-bottom: 10px;
+}
+
+
+
+
+
+

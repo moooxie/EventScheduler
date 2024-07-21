@@ -1,0 +1,243 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1440px;
+  height: 1793px;
+  flex-shrink: 0;
+  background: #F1F1F1;
+}
+
+header {
+  margin-left: 137px;
+  margin-top: 21px;
+}
+
+h5 {
+  display: inline-block;
+  vertical-align: middle;
+  padding-right: 35px;
+  font-size: 11px;
+  color: #000;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+article {
+  margin-left: 138px;
+  margin-top: 42px;
+}
+
+.logo1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+h1 {
+  font-size: 24px;
+  color: #000;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.div1 {
+  margin-top: 27px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 40px;
+}
+
+.div2 {
+  width: 362px;
+  height: 171px;
+  border-radius: 0px 0px 5px 5px;
+  background: #FFF;
+}
+.div2 h2 {
+  padding-left: 37px;
+  padding-top: 68px;
+  color: #8A8787;
+  font-family: Roboto;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.div2 p {
+  color: #8A8787;
+  font-family: Roboto;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+  vertical-align: middle;
+}
+.div2 .div3 {
+  padding-left: 40px;
+  padding-top: 11px;
+}
+
+section {
+  margin-left: 140px;
+  margin-top: 57px;
+}
+
+.div5 {
+  width: 800px;
+  position: relative;
+  margin-top: 30px;
+}
+
+.div6 {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.div7 {
+  display: inline-block;
+  vertical-align: top;
+  position: absolute;
+  padding-left: 0px;
+}
+
+.xidi {
+  margin-bottom: 42px;
+}
+
+.div8 {
+  padding-bottom: 98px;
+}
+
+.div9 {
+  width: 1440px;
+  height: 201px;
+  background: #243043;
+  position: relative;
+}
+
+.li2 {
+  color: #818687;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.div10 {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  padding-left: 137px;
+  padding-top: 59px;
+}
+
+.div11 {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  padding-left: 266px;
+  padding-top: 59px;
+}
+
+.div12 {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  padding-left: 417px;
+  padding-top: 59px;
+}
+
+.div13 {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  padding-left: 599px;
+  padding-top: 59px;
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.bu {
+  display: inline-block;
+  vertical-align: middle;
+  position: absolute;
+  padding-top: 58px;
+  padding-left: 1200px;
+}
+
+footer {
+  padding-top: 30px;
+}
+
+li {
+  padding-bottom: 10px;
+}/*# sourceMappingURL=global.css.map */
